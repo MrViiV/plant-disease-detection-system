@@ -3,7 +3,6 @@ Plant Leaf Disease Detection System utilizing AI algorithms
 
 Steps to Implement the Plant Leaf Disease Prediction Project
 
-    Mount the google drive on Google Collab Notebook and import the data set
     Import the required libraries
     Visualizing the images and Resize images
     Convert the images into a NumPy array and normalize them.
