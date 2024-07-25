@@ -1,4 +1,4 @@
-# plant-disease-detection-system
+# Plant-disease-detection-system
 Plant Leaf Disease Detection System utilizing AI algorithms
 
 Steps to Implement the Plant Leaf Disease Prediction Project
